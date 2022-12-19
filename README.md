@@ -24,3 +24,8 @@ Have any ideas for proxies I should deploy? Open an issue with the repo and I'll
 
 ## Tsunami (official: https://tsunami.gq/)
 - https://tsunami.besthaxer.repl.co/
+
+## Holy Unblocker (official: https://holyubofficial.net/)
+- https://holyub-ub.koyeb.app/
+- https://aquamarine-near-rondeletia.glitch.me/
+- https://holyunblocker.besthaxer.repl.co/
