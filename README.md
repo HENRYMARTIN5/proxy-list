@@ -8,7 +8,7 @@ Have any ideas for proxies I should deploy? Open an issue with the repo and I'll
 ## Ultraviolet (official: https://ultravioletsw.dev/)
 - https://besthaxer-ultraviolet-ub.koyeb.app/
 - https://Ultraviolet-Node-2.besthaxer.repl.co/
-- https://tasty-pear-windbreaker.cyclic.app/
+- https://tasty-pear-windbreaker.cyclic.app/ (down)
 - https://ultrav-frontend-production.up.railway.app/
 - https://adorable-entertaining-asp.glitch.me/
 
@@ -23,7 +23,7 @@ Have any ideas for proxies I should deploy? Open an issue with the repo and I'll
 - https://hypertabs-production-0174.up.railway.app/
 
 ## Tsunami (official: https://tsunami.gq/)
-- https://tsunami.besthaxer.repl.co/
+- https://tsunami.besthaxer.repl.co/ (down)
 
 ## Holy Unblocker (official: https://holyubofficial.net/)
 - https://holyub-ub.koyeb.app/
