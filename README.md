@@ -40,3 +40,6 @@ Have any ideas for proxies I should deploy? Open an issue with the repo and I'll
 
 ## Illusive (official: https://illusive.app/)
 - https://abrasive-just-drug.glitch.me/
+
+## Velocity (official: none)
+- https://velocity-production.up.railway.app/
