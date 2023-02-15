@@ -16,7 +16,7 @@ Have any ideas for proxies I should deploy? Open an issue with the repo and I'll
 - https://Incognito.besthaxer.repl.co/
 - https://incog-.up.railway.app/ (down)
 - https://jolly-threads-lamb.cyclic.app/
-- https://incognito-production-de83.up.railway.app/ (unofficial)
+- https://incognito-production-de83.up.railway.app/ (hosted by @rainestorme)
 
 ## Hypertabs (official: https://hypertabs.cc/)
 - https://tense-fly-twill.cyclic.app/
