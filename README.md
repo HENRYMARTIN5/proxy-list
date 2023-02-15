@@ -35,9 +35,6 @@ Have any ideas for proxies I should deploy? Open an issue with the repo and I'll
 - https://nebula.besthaxer.repl.co/
 - https://beaded-rounded-gull.glitch.me/
 
-## Metallic (official: https://metallic.gq/)
-- Coming soon!
-
 ## Illusive (official: https://illusive.app/)
 - https://abrasive-just-drug.glitch.me/
 
